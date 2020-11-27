@@ -3,3 +3,4 @@
 3. Setup Environment => copying xml and JAR files
 4. Test MVC Controller => creating controller package,class,view
 5. Create Customer, CustomerDAO, CustomerDAOImp classes
+6. CSS part (place css in resources dir, Conf spring, reference css in jsp
