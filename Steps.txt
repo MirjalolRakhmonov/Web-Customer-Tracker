@@ -6,3 +6,4 @@
 6. CSS part (place css in resources dir, Conf spring, reference css in jsp
 7. New Annotations (@GetMapping, @PostMapping)
 8. Adding a service layer (between CustomerController and CustomerDAO)
+9. Add Customer (Set up customer button, Create HTML form, Save to Database)
