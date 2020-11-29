@@ -7,3 +7,4 @@
 7. New Annotations (@GetMapping, @PostMapping)
 8. Adding a service layer (between CustomerController and CustomerDAO)
 9. Add Customer (Set up customer button, Create HTML form, Save to Database)
+10. Update Customer (list-customers.jsp"New Update link", create customer-form.jsp, process form data)
