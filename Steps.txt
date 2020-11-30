@@ -1,6 +1,6 @@
 1. Run Sql files to setup a database
 2. Test db connection => TestDbServlet.java
-3. Setup Environment => copying xml and JAR files
+3. Setup Environment => adding xml and JAR files
 4. Test MVC Controller => creating controller package,class,view
 5. Create Customer, CustomerDAO, CustomerDAOImp classes
 6. CSS part (place css in resources dir, Conf spring, reference css in jsp
